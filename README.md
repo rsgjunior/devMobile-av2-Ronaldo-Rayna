@@ -4,5 +4,5 @@ O projeto é uma lista de tarefas estilo ToDo
 
 Alunos:
 
-Ronaldo Guimarães
+Ronaldo Guimarães,
 Rayná Araujo
